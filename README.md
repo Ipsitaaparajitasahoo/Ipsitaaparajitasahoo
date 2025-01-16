@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aparajitaipsita86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rFYRZUSw94a5-BwrWqTjq8Vydi-qcZVz/view?usp=drivesdk](https://drive.google.com/file/d/1rFYRZUSw94a5-BwrWqTjq8Vydi-qcZVz/view?usp=drivesdk)
+- 📄 Know about my experience https://drive.google.com/file/d/1KbkaQcMiHVOd5inoLp8I87UhsxTLtKD7/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
