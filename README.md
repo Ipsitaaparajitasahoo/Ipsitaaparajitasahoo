@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ipsita Aparajita Sahoo</h1>
 <h3 align="center">A passionate MERN Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipsitaaparajitasahoo&label=Profile%20views&color=0e75b6&style=flat" alt="ipsitaaparajitasahoo" /> </p>
+<p align="left"> <img src="https://www.linkedin.com/in/ipsita-sahoo-a259a4432/" alt="ipsitaaparajitasahoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipsitaaparajitasahoo" alt="ipsitaaparajitasahoo" /></a> </p>
 
@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **MERN full stack**
 
-- 📫 How to reach me **aparajitaipsita86@gmail.com**
+- 📫 How to reach me **ipsita.asahoo06gmail.com**
 
 - 📄 Know about my experience https://drive.google.com/file/d/1KbkaQcMiHVOd5inoLp8I87UhsxTLtKD7/view?usp=drivesdk
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/ipsita-sahoo-a259a4432/</h3>
 <p align="left">
 </p>
 
