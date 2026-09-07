@@ -1,27 +1,133 @@
 <h1 align="center">Hi 👋, I'm Ipsita Aparajita Sahoo</h1>
-<h3 align="center">A passionate MERN Full-Stack developer from India</h3>
 
-<p align="left"> <img src=""D:\ipsita-3yr\WhatsApp Image 2026-09-07 at 10.09.35 AM.jpeg"" alt="ipsitaaparajitasahoo" /> </p>
+<h3 align="center">Frontend Developer | React.js | Next.js | JavaScript | TypeScript</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipsitaaparajitasahoo" alt="ipsitaaparajitasahoo" /></a> </p>
-
-- 👯 I’m looking to collaborate on **React.js Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ipsitaaparajitasahoo](https://github.com/Ipsitaaparajitasahoo)
-
-- 💬 Ask me about **MERN full stack**
-
-- 📫 How to reach me **ipsita.asahoo06gmail.com**
-
-- 📄 Know about my experience https://drive.google.com/file/d/1KbkaQcMiHVOd5inoLp8I87UhsxTLtKD7/view?usp=drivesdk
-
-<h3 align="left">Connect with me:https://www.linkedin.com/in/ipsita-sahoo-a259a4432/</h3>
-<p align="left">
+<p align="center">
+  <img src="./assets/profile.jpg" alt="Ipsita Aparajita Sahoo" width="180" height="180" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Ipsitaaparajitasahoo">
+    <img src="https://img.shields.io/github/followers/Ipsitaaparajitasahoo?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Ipsitaaparajitasahoo">
+    <img src="https://img.shields.io/github/stars/Ipsitaaparajitasahoo?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipsitaaparajitasahoo&show_icons=true&locale=en&layout=compact" alt="ipsitaaparajitasahoo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipsitaaparajitasahoo&show_icons=true&locale=en" alt="ipsitaaparajitasahoo" /></p>
+## 👩‍💻 About Me
+
+I'm a **Frontend Developer** passionate about building modern, responsive, scalable, and user-friendly web applications.
+
+- 🔭 Working with **React.js and modern frontend technologies**
+- 🌱 Currently learning and improving **Next.js, TypeScript and Advanced React**
+- 💻 Building **reusable and responsive UI components**
+- 🔌 Working with **REST APIs and frontend-backend integration**
+- ⚡ Interested in **performance optimization and clean code**
+- 🤝 Open to collaborating on **React.js / Next.js projects**
+- 💬 Ask me about **React.js, JavaScript, TypeScript, Next.js and Frontend Development**
+- 📍 Based in **India**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
+<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
+<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/></a>
+<a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/></a>
+</p>
+
+### State Management & Tools
+
+<p align="left">
+<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/></a>
+<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/></a>
+</p>
+
+### Backend & Database
+
+<p align="left">
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
+</p>
+
+---
+
+## 🚀 What I Build
+
+- ⚛️ Modern **React.js applications**
+- ▲ **Next.js applications**
+- 📱 Responsive and mobile-friendly interfaces
+- 🧩 Reusable and scalable UI components
+- 🔌 REST API integrations
+- 🔐 Authentication and authorization
+- 📝 Forms and validation
+- 📊 Admin dashboards
+- 🛒 E-commerce applications
+- ⚡ Performance-focused web applications
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ipsitaaparajitasahoo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipsitaaparajitasahoo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Ipsitaaparajitasahoo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ipsitaaparajitasahoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ipsita-sahoo-a259a4432/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Ipsitaaparajitasahoo">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+</p>
+
+📧 **Email:** ipsita.asahoo06@gmail.com
+
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1KbkaQcMiHVOd5inoLp8I87UhsxTLtKD7/view)
+
+
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! 🚀
+</p>
