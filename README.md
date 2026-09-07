@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ipsita Aparajita Sahoo</h1>
 <h3 align="center">A passionate MERN Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://www.linkedin.com/in/ipsita-sahoo-a259a4432/" alt="ipsitaaparajitasahoo" /> </p>
+<p align="left"> <img src=""D:\ipsita-3yr\WhatsApp Image 2026-09-07 at 10.09.35 AM.jpeg"" alt="ipsitaaparajitasahoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipsitaaparajitasahoo" alt="ipsitaaparajitasahoo" /></a> </p>
 
