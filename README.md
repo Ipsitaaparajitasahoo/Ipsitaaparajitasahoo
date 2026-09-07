@@ -4,14 +4,7 @@
 Frontend Developer | React.js | Next.js | JavaScript | TypeScript
 </h3>
 
-<p align="center">
-  <img
-    src="./assets/profile.jpg"
-    alt="Ipsita Aparajita Sahoo"
-    width="180"
-    height="180"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Ipsitaaparajitasahoo">
